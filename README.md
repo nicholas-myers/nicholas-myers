@@ -7,5 +7,5 @@
 - 💬 Ask me about ... my development skills and other technoligies I'm ecited to learn about.
 - 📫 How to reach me: ... nicholas.myers.professional@gmail.com or https://nicholas-myers-profolio.now.sh/
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I'm like to beatbox and write poetry.
+- ⚡ Fun fact: ... I like to beatbox and write poetry.
 -->
