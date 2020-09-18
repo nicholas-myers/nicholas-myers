@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**nicholas-myers/nicholas-myers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there, my name is Nick! Learn more about me below! 👋
 
 - 🔭 I’m currently working on ... Apollo Team Survey App
 - 🌱 I’m currently learning ... Okta
